@@ -32,6 +32,7 @@
 ## Buscando conhecimentos
   <div style="display: inline_block">
     <p><img align="center" alt="" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20" height="20" />&nbsp;&nbsp;React-Native</p>
+     <p><img align="center" alt="" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20" />&nbsp;&nbsp;NodeJS</p>
   </div>
   
 </div style="display: inline_block">
