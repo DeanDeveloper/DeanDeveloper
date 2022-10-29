@@ -1,10 +1,9 @@
 ### Olá, sou Jodean Nascimento :wave: 
  
 #### Front-End | Back-End :computer: 
+##
 
-<br/>
-
-![Jodean GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodean&show_icons=true&theme=dark)
+![Jodean GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodean&show_icons=true&theme=dracula)
 
 ## Tecnologias que uso em meu dia
 <div style="display: inline_block">
@@ -35,8 +34,9 @@
      <p><img align="center" alt="" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20" />&nbsp;&nbsp;NodeJS</p>
   </div>
   
-  <br/>
-  
+
+ ##
+ 
 </div style="display: inline_block">
  <p>Apaixonado por programação. Uma ótima forma de pensar, criar e inovar</p>
 </div>
