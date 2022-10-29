@@ -35,11 +35,8 @@
      <p><img align="center" alt="" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20" />&nbsp;&nbsp;NodeJS</p>
   </div>
   
+  <br/>
+  
 </div style="display: inline_block">
-  
-  
-  
-  
-  
-  
+ <p>Apaixonado por programação. Uma ótima forma de pensar, criar e inovar</p>
 </div>
