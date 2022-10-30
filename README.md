@@ -1,5 +1,5 @@
 ### Olá, sou Jodean Nascimento :wave: 
-#### Front-End | Back-End :computer: 
+#### :computer:   Front-End | Back-End
 
 ##
 
