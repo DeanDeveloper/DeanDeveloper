@@ -15,7 +15,7 @@
     <li><img align="center" alt="" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="20" height="20" />&nbsp;&nbsp;MySql</li>
 </ul>
 
-## Buscando conhecimentos
+## Consolidando conhecimentos
 
   <div style="display: inline_block">
     <p><img align="center" alt="" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20" height="20" />&nbsp;&nbsp;React-Native</p>
