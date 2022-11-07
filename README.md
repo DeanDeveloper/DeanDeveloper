@@ -3,8 +3,8 @@
 
 ##
 
-![Jodean GitHub stats](https://github-readme-stats.vercel.app/api?username=Jodean&show_icons=true&theme=dracula)
-
+![Jodean Status](https://github-readme-stats.vercel.app/api?username=jodean&theme=dracula&show_icons=true&count_private=true&commits=true)
+	
 ## Tecnologias que uso em meu dia
 
 <ul>
